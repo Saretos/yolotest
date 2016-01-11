@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<highscores>
+	<spiel>
+		<id>1</id>
+		<name>Tobias</name>
+		<score>100</score>
+	</spiel>
+	<spiel>
+		<id>2</id>
+		<name>Felix</name>
+		<score>80</score>
+	</spiel>
+</highscores>
